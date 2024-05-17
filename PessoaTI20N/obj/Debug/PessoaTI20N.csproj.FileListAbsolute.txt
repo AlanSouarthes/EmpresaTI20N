@@ -1,0 +1,10 @@
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.AssemblyReference.cache
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.SuggestedBindingRedirects.cache
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Atualizar.resources
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Cadastrar.resources
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Consultar.resources
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Excluir.resources
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Form1.resources
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Properties.Resources.resources
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.GenerateResource.cache
+C:\Users\alan.osouarthes\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.CoreCompileInputs.cache
